@@ -1,0 +1,4 @@
+List of Fonts used in template 
+
+Open Sans Condensed	http://www.google.com/webfonts/specimen/Open+Sans+Condensed
+
